@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Agentic AI workflows, Machine Learning techniques and SQL.
 - 👯 I’m looking to collaborate on any beginner level AI/ML projects.
 - 🤔 I’m looking for help with learning to be an AI engineer.
-- 💬 Ask me about general programming stuff and specifics related to Data Analytics and NLP.
+- 💬 Ask me about general programming stuff and specifics related to Data Analytics and Python Programming.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Flash Man🥶
+- ⚡ Fun fact: Consistency beats talent!
