@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Artificial Intelligence and it's real world use-case scenarios in the field of education.
 - 🌱 I’m currently learning Agentic AI workflows, Machine Learning techniques and SQL.
 - 👯 I’m looking to collaborate on any beginner level AI/ML projects.
-- 🤔 I’m looking for help with learning to be an AI engineer.
+- 🤔 I’m looking for help with learning to be an AI engineer, and relevant skills.
 - 💬 Ask me about general programming stuff and specifics related to Data Analytics and Python Programming.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Consistency beats talent!
+- ⚡ Fun fact: Consistency beats talent! Accept your mistakes, and never repeat them! Discipline + Devotion = Success:)
